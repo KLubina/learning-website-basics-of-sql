@@ -1,3 +1,3 @@
-https://raw.githack.com/
+To see the page click on this link:
 
-https://rawcdn.githack.com/KLubina/My-Learning-Websites/944ca5071db10790edb4f90afa53465bef49320e/basics-of-sql-branch/index.html
+https://rawcdn.githack.com/KLubina/learning-website-basics-of-sql/18200ff7a90037f9f1782b7e12e9ddd38aa84a59/index.html
